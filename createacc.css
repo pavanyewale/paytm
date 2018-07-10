@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+	background-color: #D2D5CD;
+	width: 100%;
+	margin: auto;
+}
+.form{
+	width: 80%;
+	background-color: #D2D5CD;
+	margin-top: 9px;
+	margin-right: 10%;
+	margin-left: 10%;
+	border: thin none #FFFFFF;
+	margin-bottom: 7px;
+	}
+.hdr{
+	width: 100%;
+	background-color: #555596;
+	-moz-border-end-width: 100%;
+	font-size: 22px;
+	text-align: center;
+	height: 25px;
+	margin-top: 0px;
+	/* [disabled]margin-right: 0px; */
+	/* [disabled]margin-left: 0px; */
+	margin-bottom: 5px;
+	color: white;
+}
+.input{
+	width: 100%;
+	margin-top: 4px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 3px;
+	height: 30px;
+}
+.textarea{
+	width: 100%;
+	margin-top: 4px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 3px;
+	height: 100px;
+}
+.Button{
+	width: 94%;
+	margin-top: 17px;
+	margin-right: 3%;
+	margin-left: 4%;
+	margin-bottom: 0%;
+	background-color: #5B5BA8;
+	color: white;
+	border: none;
+	height: 28px;
+}
+.cna{
+	margin-top: 21px;
+	margin-right: 23%;
+	margin-left: 23%;
+	background-color: green;
+	color: white;
+	width: 54%;
+	border: thin  #640600;
+	text-align: center;
+	height: 25px;
+	font-size: 18px;
+	color-profile: white;
+	text-emphasis-color: white;
+}
+.error{
+	
+	margin-top: 15px;
+	
+	background-color: red;
+	color: white;
+	width: auto;
+	border: thin  #640600;
+	text-align: center;
+	height: 17px;
+	font-size: 13px;
+	color-profile: white;
+	text-emphasis-color: white;}
+	.lbl{
+	margin-top: 11px;
+	/* [disabled]margin-right: 0px; */
+	margin-left: 5px;
+	margin-bottom: -5px;
+	font-size: 18px;
+		}
+li{
+	align-content: center;
+	float: left;
+	list-style: none;
+	/* [disabled]background-color: #171616; */
+	border: 1px solid #000000;
+	margin: 1px;
+	color: #5F5656;
+
+	
+	}
+	 li over{background:#00FFFB;
+		}
